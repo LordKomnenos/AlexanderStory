@@ -2,4 +2,18 @@
 It was cold. It was windy. I was walking alone along on a long dirt road through 
 which went through the mountains. I needed to make a phone call but the cold froze my phone. I saw the battery drop to 0% and BANG! It stopped working.
 I felt my spine shiver as I knew no hope existed. The old man had warned me that this phone was cursed. With it's gps, it led me into the mountains to have its battery die and have me die along with it. Hence, the nickname the old man gave it, The Killer Phone.
+<<<<<<< HEAD
 It is bad weather. It does much damage to everyone's body. It made a great threat
+=======
+I didn't know what to do so I kept walking, hoping that I would find another person or another place. 
+
+As it got darker and darker, I started getting even more nervous. Then, I heard some leaves crunching. I turned around, looking for another person 
+or another animal but couldn't see anything. Then, when I turned back around, there was a pack of wolves staring me in the face. 
+
+
+I pulled out the spaghetti I always keep in my rear pocket and threw it to the side. The pack of wolves lunged into the dark to chase the spaghetti. I was saved.
+I then continued walking along the lengthy soil path through the pitch black night. 
+>>>>>>> 1558327e6d8f6580d734c3a256bfa8b230dcf96b
+
+The fourth person has just seen this story. But he also found that he is poor at continuing writing stories. He has not passed ESL 118 yet. 
+He think he has no thing to add. Finally, he decided to write this story.
